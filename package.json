@@ -1,5 +1,5 @@
 {
-  "name": "ci-cd-livraria",
+  "name": "back",
   "version": "1.0.0",
   "description": "API simples de livraria para demonstrar CI/CD com Node.js e GitHub Actions",
   "main": "index.js",
